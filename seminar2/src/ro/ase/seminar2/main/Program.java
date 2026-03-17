@@ -11,11 +11,15 @@ public class Program {
 
 	public static void main(String[] args) {
 		List<Aplicant> listaAplicanti;
+		Aplicant.setPragPunctaj(85);
 		try {
-			AplicantiReader aplicantReader= new AngajatiReader();
-			listaAplicanti = aplicantReader.readAplicanti("angajati.txt");
-			for(Aplicant aplicant:listaAplicanti)
+			AplicantiReader aplicantReader= new AngajatiReader("angajati.txt");
+			listaAplicanti =aplicantReader.readAplicanti();
+			for(Aplicant aplicant:listaAplicanti) {
 				System.out.println(aplicant.toString());
+				aplicant.afisareVenit();
+				aplicant.afisareStatut();
+			}
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

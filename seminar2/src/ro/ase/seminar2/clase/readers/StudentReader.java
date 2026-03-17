@@ -11,19 +11,23 @@ import java.util.Scanner;
 
 public abstract class StudentReader extends AplicantiReader {
 
+    public StudentReader(String numeFisier) {
+        super(numeFisier);
+    }
+
     @Override
-    public List<Aplicant> readAplicanti(String file) throws FileNotFoundException {
-        Scanner input = new Scanner(new File(file));
+    public List<Aplicant> readAplicanti() throws FileNotFoundException {
+        Scanner input = new Scanner(new File(super.numeFisier));
         input.useDelimiter(",|\n");
         List<Aplicant> studenti = new ArrayList<Aplicant>();
 
         while (input.hasNext()) {
             Student s=new Student();
             super.citesteAplicant(input,s );
-            int an_studii = input.nextInt();
+            int anStudii = input.nextInt();
             String facultate = (input.next()).toString();
 
-            s.setAn_studii(an_studii);
+            s.setAn_studii(anStudii);
             s.setFacultate(facultate);
             studenti.add(s);
         }
