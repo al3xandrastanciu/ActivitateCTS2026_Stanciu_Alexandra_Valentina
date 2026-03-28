@@ -1,6 +1,6 @@
-package ex1.main;
+package spital.main;
 
-import ex1.clase.DataBaseConnection;
+import spital.clase.DataBaseConnection;
 
 public class Main {
     public static void main(String[] args) {

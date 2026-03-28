@@ -1,4 +1,4 @@
-package ex1.clase;
+package spital.clase;
 
 public class DataBaseConnection {
     private String url;
