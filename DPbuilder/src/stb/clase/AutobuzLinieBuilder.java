@@ -5,8 +5,8 @@ public class AutobuzLinieBuilder implements AutobuzLinieBuilderAbstract{
     private boolean deschideUsi;
 
     public AutobuzLinieBuilder() {
-        this.opriri = opriri;
-        this.deschideUsi = deschideUsi;
+        this.opriri = false;
+        this.deschideUsi = false;
     }
 
     public AutobuzLinieBuilder setOpriri(boolean opriri) {
