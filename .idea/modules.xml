@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/ActivitateCTS2026.iml" />
       <module fileurl="file://$PROJECT_DIR$/DPFactoryMethod/DPFactoryMethod.iml" filepath="$PROJECT_DIR$/DPFactoryMethod/DPFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DPPrototype/DPPrototype.iml" filepath="$PROJECT_DIR$/DPPrototype/DPPrototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DPSingleton/DPSingleton.iml" filepath="$PROJECT_DIR$/DPSingleton/DPSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/DPbuilder/DPbuilder.iml" filepath="$PROJECT_DIR$/DPbuilder/DPbuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/DpSimpleFactory/DpSimpleFactory.iml" filepath="$PROJECT_DIR$/DpSimpleFactory/DpSimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticeTests/PracticeTests.iml" filepath="$PROJECT_DIR$/PracticeTests/PracticeTests.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1/seminar1.iml" filepath="$PROJECT_DIR$/seminar1/seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar4/seminar4.iml" filepath="$PROJECT_DIR$/seminar4/seminar4.iml" />
