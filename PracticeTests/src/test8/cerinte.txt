@@ -19,7 +19,7 @@ Specificație tehnică: Implementați ierarhia de produse și ierarhia de fabric
  principiul Open-Closed (deschis pentru extindere, închis pentru modificare).
 
 Cerința 3 (1p)
-În clasa Main, demonstrați:
+În clasa adapter.main.Main, demonstrați:
 
 Accesarea instanței unice a RegistruluiCentral.
 

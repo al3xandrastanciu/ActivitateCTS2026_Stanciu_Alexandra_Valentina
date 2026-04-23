@@ -10,7 +10,7 @@ Atunci când un client închiriază un vehicul, acesta poate alege dotări supli
 și NumarKilometriIncluși (int). Dacă nu sunt setate, acestea au valori implicite (false/0). Implementați modelul care să permită crearea acestor obiecte de tip Rezervare.
 
 Cerința 3 (2p) - Testare:
-În Main, demonstrați:
+În ain, demonstrați:
 
 Crearea a două vehicule diferite folosind fabricile dedicate.
 
