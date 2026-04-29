@@ -1,0 +1,14 @@
+package decorator.clase.decorator;
+
+import decorator.clase.INotaDePlata;
+
+public class NotaDePlata1Mai extends NotaDePlataDecorator{
+    public NotaDePlata1Mai(INotaDePlata notaDePlata) {
+        super(notaDePlata);
+    }
+
+    @Override
+    public void printeazaFelicitare() {
+        System.out.println("La multi ani de 1 mai!");
+    }
+}

@@ -15,7 +15,7 @@ Dacă aceste opțiuni nu sunt specificate de client, rezervarea se va crea cu va
 Indiciu tehnic: Trebuie să implementezi o clasă de tip Rezervare și o clasă care să se ocupe de construcția etapizată a acesteia.
 
 Cerința 3 (1p)
-În clasa adapter.main.Main, simulează:
+În clasa adapter.main.decorator.main.Main, simulează:
 
 Crearea unui MeniuVegan folosind structura de fabrici definită la Cerința 1.
 

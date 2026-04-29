@@ -12,7 +12,7 @@ Să se realizeze un singur modul (o singură clasă fabrică) care, primind un t
 Cerință tehnică: Implementați clasa abstractă PersonalBord, clasele concrete și fabrica unică ce conține logica de selecție.
 
 Cerința 3 (1p)
-În clasa adapter.main.Main, simulează:
+În clasa adapter.main.decorator.main.Main, simulează:
 
 Crearea unui AvionCargo folosind structura de fabrici de la Cerința 1.
 
