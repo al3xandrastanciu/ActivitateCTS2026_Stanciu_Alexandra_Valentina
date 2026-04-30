@@ -18,7 +18,7 @@ Cerință tehnică: Implementați clasa PachetLivrare și clasa PachetBuilder ca
 construcția obiectului folosind method chaining (returnarea this).
 
 Cerința 3 (1p) - Testare
-În clasa adapter.main.decorator.main.Main, simulează:
+În clasa adapter.main.decorator.main.flyway.main.Main, simulează:
 
 Crearea unui Smartphone folosind fabrica corespunzătoare.
 
