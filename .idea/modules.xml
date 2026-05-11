@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/DPFactoryMethod/DPFactoryMethod.iml" filepath="$PROJECT_DIR$/DPFactoryMethod/DPFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/DPPrototype/DPPrototype.iml" filepath="$PROJECT_DIR$/DPPrototype/DPPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/DPSingleton/DPSingleton.iml" filepath="$PROJECT_DIR$/DPSingleton/DPSingleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DPStructurale/DPStructurale.iml" filepath="$PROJECT_DIR$/DPStructurale/DPStructurale.iml" />
       <module fileurl="file://$PROJECT_DIR$/DPbuilder/DPbuilder.iml" filepath="$PROJECT_DIR$/DPbuilder/DPbuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/DpSimpleFactory/DpSimpleFactory.iml" filepath="$PROJECT_DIR$/DpSimpleFactory/DpSimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/PracticeTests/PracticeTests.iml" filepath="$PROJECT_DIR$/PracticeTests/PracticeTests.iml" />
