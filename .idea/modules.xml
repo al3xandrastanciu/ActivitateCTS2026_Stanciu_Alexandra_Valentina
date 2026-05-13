@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/ActivitateCTS2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DPComportamentale/DPComportamentale.iml" filepath="$PROJECT_DIR$/DPComportamentale/DPComportamentale.iml" />
       <module fileurl="file://$PROJECT_DIR$/DPFactoryMethod/DPFactoryMethod.iml" filepath="$PROJECT_DIR$/DPFactoryMethod/DPFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/DPPrototype/DPPrototype.iml" filepath="$PROJECT_DIR$/DPPrototype/DPPrototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/DPSingleton/DPSingleton.iml" filepath="$PROJECT_DIR$/DPSingleton/DPSingleton.iml" />

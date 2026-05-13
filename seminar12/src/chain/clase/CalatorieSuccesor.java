@@ -1,6 +1,6 @@
 package chain.clase;
 
-public abstract class CalatorieSuccesor {
+public abstract class   CalatorieSuccesor {
     protected CalatorieSuccesor calatorieHandler;
 
     public void setCalatorieHandler(CalatorieSuccesor calatorieHandler) {
